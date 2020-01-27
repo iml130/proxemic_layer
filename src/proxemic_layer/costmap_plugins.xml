@@ -1,0 +1,7 @@
+<class_libraries>
+    <library path="lib/libproxemic_layer">
+      <class type="proxemic_layer::ProxemicLayer" base_class_type="costmap_2d::Layer">
+        <description>Layer that adds the individual proxemic of a person to the costmap</description>
+      </class>
+    </library>
+</class_libraries>

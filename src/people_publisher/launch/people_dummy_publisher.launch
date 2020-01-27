@@ -1,0 +1,7 @@
+<launch>
+  <node name="people_publisher" pkg="people_publisher" type="people_publisher" output="screen">
+  </node>
+
+  <!--node name="rqt_reconfigure" pkg="rqt_reconfigure" type="rqt_reconfigure" output="screen">
+  </node-->  
+</launch>

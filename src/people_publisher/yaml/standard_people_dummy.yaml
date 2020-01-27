@@ -1,0 +1,47 @@
+!!python/object/new:dynamic_reconfigure.encoding.Config
+dictitems:
+  centerShiftX: 0.0
+  centerShiftY: 0.0
+  frame_id: base_link
+  groups: !!python/object/new:dynamic_reconfigure.encoding.Config
+    dictitems:
+      centerShiftX: 0.0
+      centerShiftY: 0.0
+      frame_id: base_link
+      groups: !!python/object/new:dynamic_reconfigure.encoding.Config
+        state: []
+      id: 0
+      name: Default
+      parameters: !!python/object/new:dynamic_reconfigure.encoding.Config
+        state: []
+      parent: 0
+      person_name: dummy dum dum
+      positionX: 0.0
+      positionY: 0.0
+      positionZ: 0.0
+      rotation: 0.0
+      rotationX: 0.0
+      rotationY: 0.0
+      rotationZ: 0.0
+      spreadX: 1.0
+      spreadY: 1.0
+      state: true
+      type: ''
+      velocityX: 0.0
+      velocityY: 0.0
+      velocityZ: 0.0
+    state: []
+  person_name: dummy dum dum
+  positionX: 0.0
+  positionY: 0.0
+  positionZ: 0.0
+  rotation: 0.0
+  rotationX: 0.0
+  rotationY: 0.0
+  rotationZ: 0.0
+  spreadX: 1.0
+  spreadY: 1.0
+  velocityX: 0.0
+  velocityY: 0.0
+  velocityZ: 0.0
+state: []
